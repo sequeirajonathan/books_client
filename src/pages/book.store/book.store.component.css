@@ -1,0 +1,9 @@
+.card-img-top {
+    flex-shrink: 0;
+    height: 250px;
+    width: 100%;
+}
+
+.h5, h5 {
+    font-size: 1rem;
+}

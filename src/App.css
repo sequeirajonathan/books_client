@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat&family=Open+Sans&family=Roboto+Slab&display=swap');
+
+body {
+
+  font-family: 'Roboto Slab', serif;
+  padding: 20px 60px;
+
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+* {
+  box-sizing: border-box;
+}
